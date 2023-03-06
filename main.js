@@ -8,4 +8,5 @@ elementMaiorValor.innerHTML = maiorValor
 const elementMenorValor = document.getElementById("menor-valor")
 elementMenorValor.innerHTML = menorValor
 
+
 console.log(secretNumber)
